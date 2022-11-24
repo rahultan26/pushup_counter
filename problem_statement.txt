@@ -1,0 +1,6 @@
+Problem_statement:-
+On the given video file build a model that detects the posture and counts the number of reps during a session of Push-ups performed by the athelete
+
+Experiment:-
+The objective is to create an automated AI driven model that could be used by atheletes inorder to replace GYM Trainers and monitor themselves while they perform different exercises
+
